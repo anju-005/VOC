@@ -15,7 +15,7 @@ This is a simple command-line-based To-Do List Application that allows users to 
 1. Ensure Python 3.x is installed on your machine.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/personal-todo-list.git
+   git clone https://github.com/anju-005/VOC
    ```
 3. Navigate into the project directory:
    ```bash
