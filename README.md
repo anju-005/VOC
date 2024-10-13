@@ -19,11 +19,11 @@ This is a simple command-line-based To-Do List Application that allows users to 
    ```
 3. Navigate into the project directory:
    ```bash
-   cd personal-todo-list
+   cd VOC
    ```
 4. Run the application:
    ```bash
-   python todo.py
+   python main.py
    ```
 
 ## Project Structure
@@ -37,6 +37,3 @@ This is a simple command-line-based To-Do List Application that allows users to 
 ## Usage
 - Follow the prompts in the terminal to add, view, complete, or delete tasks.
 - Tasks are saved automatically when exiting the program.
-
-## License
-This project is free to use and modify.
